@@ -15,6 +15,6 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_pushButton_clicked()
 {
-    qDebug() << "hello world";
+    qDebug() << "hello world!";
 
 }
